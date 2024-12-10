@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-
 // Function prototypes
 void displayMenu();
 void performOperation(int choice);

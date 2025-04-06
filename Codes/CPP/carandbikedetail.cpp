@@ -2,6 +2,6 @@
 using namespace std;
 
 int main(){
-    cout<<"CAR DETAILES WILL BE DISPLAY IN FUTURE...!";
+    cout<<"CAR AND BIKE DETAILES WILL BE DISPLAY IN FUTURE...!";
     return 0;
 }

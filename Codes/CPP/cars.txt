@@ -6,3 +6,7 @@ Lamborghini
 Aventador
 2022
 -----
+Toyota
+Corolla
+2022
+-----

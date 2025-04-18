@@ -6,3 +6,7 @@ Yamaha
 R1
 2022
 -----
+Suzuki
+Hayabusa
+2021
+-----

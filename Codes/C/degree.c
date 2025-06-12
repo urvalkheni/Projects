@@ -1,6 +1,10 @@
 #include <stdio.h>
 #include <math.h>
 
+#ifndef M_PI
+#define M_PI 3.14159265358979323846
+#endif
+
 // Convert degrees to radians
 double toRadians(double degree) {
     return degree * M_PI / 180.0;
@@ -10,6 +14,7 @@ double toRadians(double degree) {
 double toDegrees(double radian) {
     return radian * 180.0 / M_PI;
 }
+
 
 int main() {
     double angle, value;
